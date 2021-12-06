@@ -37,12 +37,6 @@
     <Filter Include="소스 파일\3. 알고리즘\programmers">
       <UniqueIdentifier>{1e456dd5-c316-4a84-aa74-e82f49127c14}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\2. 입출력">
-      <UniqueIdentifier>{7775e72d-ffff-4724-8e77-1fd2bba2b309}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\1. 자료 구조">
-      <UniqueIdentifier>{cfe0d39f-de5c-4653-a9fd-171533de1a1e}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\3. 알고리즘\정렬\stl::sort">
       <UniqueIdentifier>{110a8301-68e2-4210-aa94-103c14463e8c}</UniqueIdentifier>
     </Filter>
@@ -261,15 +255,6 @@
     <ClCompile Include="2933.cpp">
       <Filter>소스 파일\3. 알고리즘\그래프\기본</Filter>
     </ClCompile>
-    <ClCompile Include="min_heap.cpp">
-      <Filter>소스 파일\1. 자료 구조</Filter>
-    </ClCompile>
-    <ClCompile Include="hash_map.cpp">
-      <Filter>소스 파일\1. 자료 구조</Filter>
-    </ClCompile>
-    <ClCompile Include="list.cpp">
-      <Filter>소스 파일\1. 자료 구조</Filter>
-    </ClCompile>
     <ClCompile Include="2042 기본형.cpp">
       <Filter>소스 파일\3. 알고리즘\Segment tree</Filter>
     </ClCompile>
@@ -296,9 +281,6 @@
     </ClCompile>
     <ClCompile Include="1005.cpp">
       <Filter>소스 파일\3. 알고리즘\그래프\위상 정렬</Filter>
-    </ClCompile>
-    <ClCompile Include="10992.cpp">
-      <Filter>소스 파일\2. 입출력</Filter>
     </ClCompile>
     <ClCompile Include="2751.cpp">
       <Filter>소스 파일\3. 알고리즘\정렬\stl::sort</Filter>
@@ -368,30 +350,6 @@
     </ClCompile>
     <ClCompile Include="2798.cpp">
       <Filter>소스 파일\3. 알고리즘\완전 정복</Filter>
-    </ClCompile>
-    <ClCompile Include="1074.cpp">
-      <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
-    </ClCompile>
-    <ClCompile Include="2447.cpp">
-      <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
-    </ClCompile>
-    <ClCompile Include="1992 - 다시 풀어보기.cpp">
-      <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
-    </ClCompile>
-    <ClCompile Include="1780.cpp">
-      <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
-    </ClCompile>
-    <ClCompile Include="2630.cpp">
-      <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
-    </ClCompile>
-    <ClCompile Include="2448.cpp">
-      <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
-    </ClCompile>
-    <ClCompile Include="1629.cpp">
-      <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
-    </ClCompile>
-    <ClCompile Include="2104 - 다시 풀어보기.cpp">
-      <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
     </ClCompile>
     <ClCompile Include="1011.cpp">
       <Filter>소스 파일\3. 알고리즘\수학</Filter>
@@ -636,20 +594,11 @@
     <ClCompile Include="1126 - 같은 탑%28다시%29.cpp">
       <Filter>소스 파일\3. 알고리즘\다이나믹 프로그래밍\Array</Filter>
     </ClCompile>
-    <ClCompile Include="1725 - 히스토그램%28다시%29.cpp">
-      <Filter>소스 파일\3. 알고리즘\분할 정복\히스토그램</Filter>
-    </ClCompile>
-    <ClCompile Include="6549 - 히스토그램에서 가장 큰 직사각형.cpp">
-      <Filter>소스 파일\3. 알고리즘\분할 정복\히스토그램</Filter>
-    </ClCompile>
     <ClCompile Include="11003 - 최솟값 찾기.cpp">
       <Filter>소스 파일\3. 알고리즘\큐\우선순위 큐</Filter>
     </ClCompile>
     <ClCompile Include="1300 - K번 째 수%28다시%29.cpp">
       <Filter>소스 파일\3. 알고리즘\이분 탐색</Filter>
-    </ClCompile>
-    <ClCompile Include="2263 - 트리의 순회%28다시%29.cpp">
-      <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
     </ClCompile>
     <ClCompile Include="2749 - 피보나치 수 3.cpp">
       <Filter>소스 파일\3. 알고리즘\행렬</Filter>
@@ -719,6 +668,39 @@
     </ClCompile>
     <ClCompile Include="1826 - 연료 채우기.cpp">
       <Filter>소스 파일\3. 알고리즘\완전 정복</Filter>
+    </ClCompile>
+    <ClCompile Include="1074.cpp">
+      <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
+    </ClCompile>
+    <ClCompile Include="1629.cpp">
+      <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
+    </ClCompile>
+    <ClCompile Include="1725 - 히스토그램%28다시%29.cpp">
+      <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
+    </ClCompile>
+    <ClCompile Include="1780.cpp">
+      <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
+    </ClCompile>
+    <ClCompile Include="1992 - 다시 풀어보기.cpp">
+      <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
+    </ClCompile>
+    <ClCompile Include="2104 - 다시 풀어보기.cpp">
+      <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
+    </ClCompile>
+    <ClCompile Include="2263 - 트리의 순회%28다시%29.cpp">
+      <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
+    </ClCompile>
+    <ClCompile Include="2447.cpp">
+      <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
+    </ClCompile>
+    <ClCompile Include="2448.cpp">
+      <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
+    </ClCompile>
+    <ClCompile Include="2630.cpp">
+      <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
+    </ClCompile>
+    <ClCompile Include="6549 - 히스토그램에서 가장 큰 직사각형.cpp">
+      <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
