@@ -262,6 +262,4 @@ __pycache__/
 
 .gitignore
 .gitattributes
-Algorithms.sln
-Algorithms.vcxproj
-Algorithms.vcxproj.filters
+Algorithms.*

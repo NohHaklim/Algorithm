@@ -702,6 +702,9 @@
     <ClCompile Include="6549 - 히스토그램에서 가장 큰 직사각형.cpp">
       <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
     </ClCompile>
+    <ClCompile Include="1422 - 숫자의 신.cpp">
+      <Filter>소스 파일\3. 알고리즘\구현</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="2. 주의할 점.txt">
