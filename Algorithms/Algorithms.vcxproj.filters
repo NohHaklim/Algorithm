@@ -706,7 +706,13 @@
       <Filter>소스 파일\3. 알고리즘\구현</Filter>
     </ClCompile>
     <ClCompile Include="1939 - 중량제한.cpp">
-      <Filter>소스 파일\3. 알고리즘</Filter>
+      <Filter>소스 파일\3. 알고리즘\이분 탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="2585 - 경비행기.cpp">
+      <Filter>소스 파일\3. 알고리즘\이분 탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="3090 - 차이를 최소로.cpp">
+      <Filter>소스 파일\3. 알고리즘\이분 탐색</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
