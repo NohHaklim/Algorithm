@@ -714,6 +714,12 @@
     <ClCompile Include="3090 - 차이를 최소로.cpp">
       <Filter>소스 파일\3. 알고리즘\이분 탐색</Filter>
     </ClCompile>
+    <ClCompile Include="1786 - 찾기.cpp">
+      <Filter>소스 파일\3. 알고리즘\문자열</Filter>
+    </ClCompile>
+    <ClCompile Include="1305 - 광고.cpp">
+      <Filter>소스 파일\3. 알고리즘\문자열</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="2. 주의할 점.txt">
