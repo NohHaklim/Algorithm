@@ -723,6 +723,15 @@
     <ClCompile Include="13305 - 주유소.cpp">
       <Filter>소스 파일\3. 알고리즘\그리디</Filter>
     </ClCompile>
+    <ClCompile Include="2023 - 신기한 소수.cpp">
+      <Filter>소스 파일\3. 알고리즘\수학\소수</Filter>
+    </ClCompile>
+    <ClCompile Include="1630 - 오민식.cpp">
+      <Filter>소스 파일\3. 알고리즘\수학\소수</Filter>
+    </ClCompile>
+    <ClCompile Include="1747 - 소수, 팰린드롬.cpp">
+      <Filter>소스 파일\3. 알고리즘\수학\소수</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="2. 주의할 점.txt">
