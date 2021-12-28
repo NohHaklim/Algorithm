@@ -721,7 +721,7 @@
       <Filter>소스 파일\3. 알고리즘\문자열</Filter>
     </ClCompile>
     <ClCompile Include="13305 - 주유소.cpp">
-      <Filter>소스 파일\3. 알고리즘</Filter>
+      <Filter>소스 파일\3. 알고리즘\그리디</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
