@@ -732,6 +732,15 @@
     <ClCompile Include="1747 - 소수, 팰린드롬.cpp">
       <Filter>소스 파일\3. 알고리즘\수학\소수</Filter>
     </ClCompile>
+    <ClCompile Include="3079 - 입국심사.cpp">
+      <Filter>소스 파일\3. 알고리즘\이분 탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="1890 - 점프.cpp">
+      <Filter>소스 파일\3. 알고리즘\다이나믹 프로그래밍\Array</Filter>
+    </ClCompile>
+    <ClCompile Include="1168 - 요세푸스 문제2.cpp">
+      <Filter>소스 파일\3. 알고리즘\Segment tree</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="2. 주의할 점.txt">
