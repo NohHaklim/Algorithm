@@ -142,6 +142,9 @@
     <Filter Include="소스 파일\3. 알고리즘\큐\우선순위 큐">
       <UniqueIdentifier>{66a54e02-a2db-400b-851f-77f63b0163ee}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\3. 알고리즘\Segment tree\Inversion Counting">
+      <UniqueIdentifier>{e4f87685-0b89-4271-b002-1b6593133ae9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2609.cpp">
@@ -740,6 +743,12 @@
     </ClCompile>
     <ClCompile Include="1168 - 요세푸스 문제2.cpp">
       <Filter>소스 파일\3. 알고리즘\Segment tree</Filter>
+    </ClCompile>
+    <ClCompile Include="12899 - 데이터의 구조.cpp">
+      <Filter>소스 파일\3. 알고리즘\Segment tree</Filter>
+    </ClCompile>
+    <ClCompile Include="1517 - 버블 소트.cpp">
+      <Filter>소스 파일\3. 알고리즘\Segment tree\Inversion Counting</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

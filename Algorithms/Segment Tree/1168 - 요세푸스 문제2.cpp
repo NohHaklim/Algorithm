@@ -11,7 +11,8 @@ public:
 			return node[cur] = arr[left];
 		}
 		int mid = (left + right) / 2;
-		return node[cur] = init(cur * 2, left, mid) + init(cur * 2 + 1, mid + 1, right);
+		return node[cur] = init(cur * 2, left, mid)
+				+ init(cur * 2 + 1, mid + 1, right);
 	}
 
 	int del(int cur, int left, int right, int rank) {
