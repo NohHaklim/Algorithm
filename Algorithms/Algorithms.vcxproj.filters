@@ -750,6 +750,15 @@
     <ClCompile Include="1517 - 버블 소트.cpp">
       <Filter>소스 파일\3. 알고리즘\Segment tree\Inversion Counting</Filter>
     </ClCompile>
+    <ClCompile Include="1343 - 폴리오미노.cpp">
+      <Filter>소스 파일\3. 알고리즘\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="1389 - 케빈 베이컨의 6단계 법칙.cpp">
+      <Filter>소스 파일\3. 알고리즘\그래프\플로이드-와샬</Filter>
+    </ClCompile>
+    <ClCompile Include="1684 - 같은 나머지.cpp">
+      <Filter>소스 파일\3. 알고리즘\수학\공배수/약수</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="2. 주의할 점.txt">
