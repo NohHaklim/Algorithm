@@ -447,3 +447,15 @@ FodyWeavers.xsd
 
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
+
+*.dll
+*.exe
+*.exp
+*.ilk
+*.lib
+*.ncb
+*.log
+*.pdb
+*.vcproj.*.user
+[Dd]ebug
+[Rr]elease
