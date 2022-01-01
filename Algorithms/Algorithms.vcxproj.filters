@@ -762,6 +762,12 @@
     <ClCompile Include="1736 - 쓰레기 치우기.cpp">
       <Filter>소스 파일\3. 알고리즘\그리디</Filter>
     </ClCompile>
+    <ClCompile Include="1208 - 부분수열의 합2.cpp">
+      <Filter>소스 파일\3. 알고리즘\이분 탐색</Filter>
+    </ClCompile>
+    <ClCompile Include="1182 - 부분수열의 합.cpp">
+      <Filter>소스 파일\3. 알고리즘\완전 정복</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="2. 주의할 점.txt">
