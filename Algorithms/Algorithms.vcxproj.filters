@@ -775,7 +775,7 @@
       <Filter>소스 파일\3. 알고리즘\집합</Filter>
     </ClCompile>
     <ClCompile Include="1043 - 거짓말.cpp">
-      <Filter>소스 파일\3. 알고리즘</Filter>
+      <Filter>소스 파일\3. 알고리즘\집합</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
