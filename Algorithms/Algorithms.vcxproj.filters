@@ -678,9 +678,6 @@
     <ClCompile Include="1629.cpp">
       <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
     </ClCompile>
-    <ClCompile Include="1725 - 히스토그램%28다시%29.cpp">
-      <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
-    </ClCompile>
     <ClCompile Include="1780.cpp">
       <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
     </ClCompile>
@@ -700,9 +697,6 @@
       <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
     </ClCompile>
     <ClCompile Include="2630.cpp">
-      <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
-    </ClCompile>
-    <ClCompile Include="6549 - 히스토그램에서 가장 큰 직사각형.cpp">
       <Filter>소스 파일\3. 알고리즘\분할 정복</Filter>
     </ClCompile>
     <ClCompile Include="1422 - 숫자의 신.cpp">
@@ -777,8 +771,17 @@
     <ClCompile Include="1043 - 거짓말.cpp">
       <Filter>소스 파일\3. 알고리즘\집합</Filter>
     </ClCompile>
+    <ClCompile Include="14727 - 퍼즐 자르기.cpp">
+      <Filter>소스 파일\3. 알고리즘\분할 정복\히스토그램</Filter>
+    </ClCompile>
+    <ClCompile Include="1725 - 히스토그램%28다시%29.cpp">
+      <Filter>소스 파일\3. 알고리즘\분할 정복\히스토그램</Filter>
+    </ClCompile>
+    <ClCompile Include="6549 - 히스토그램에서 가장 큰 직사각형.cpp">
+      <Filter>소스 파일\3. 알고리즘\분할 정복\히스토그램</Filter>
+    </ClCompile>
     <ClCompile Include="2014 - 소수의 곱.cpp">
-      <Filter>소스 파일\3. 알고리즘</Filter>
+      <Filter>소스 파일\3. 알고리즘\큐\우선순위 큐</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
