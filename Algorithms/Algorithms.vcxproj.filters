@@ -145,6 +145,9 @@
     <Filter Include="소스 파일\3. 알고리즘\Segment tree\Inversion Counting">
       <UniqueIdentifier>{e4f87685-0b89-4271-b002-1b6593133ae9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\3. 알고리즘\수학\Combination">
+      <UniqueIdentifier>{c99bccf9-439a-4777-af46-b0f1495e1dd6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2609.cpp">
@@ -782,6 +785,9 @@
     </ClCompile>
     <ClCompile Include="2014 - 소수의 곱.cpp">
       <Filter>소스 파일\3. 알고리즘\큐\우선순위 큐</Filter>
+    </ClCompile>
+    <ClCompile Include="2407 - 조합.cpp">
+      <Filter>소스 파일\3. 알고리즘\수학\Combination</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
