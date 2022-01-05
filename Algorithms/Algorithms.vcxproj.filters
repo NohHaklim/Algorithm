@@ -789,6 +789,9 @@
     <ClCompile Include="2407 - 조합.cpp">
       <Filter>소스 파일\3. 알고리즘\수학\Combination</Filter>
     </ClCompile>
+    <ClCompile Include="9996 - 한국이 그리울 땐 서버에 접속하지.cpp">
+      <Filter>소스 파일\3. 알고리즘</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="2. 주의할 점.txt">
