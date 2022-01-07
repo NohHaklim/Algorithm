@@ -273,15 +273,6 @@
     <ClCompile Include="11098.cpp">
       <Filter>소스 파일\3. 알고리즘\구현</Filter>
     </ClCompile>
-    <ClCompile Include="Hash%281%29 - 완주하지 못한 선수.cpp">
-      <Filter>소스 파일\3. 알고리즘\programmers</Filter>
-    </ClCompile>
-    <ClCompile Include="Sort%281%29 - K번째 수.cpp">
-      <Filter>소스 파일\3. 알고리즘\programmers</Filter>
-    </ClCompile>
-    <ClCompile Include="Sort%282%29 - 가장 큰 수.cpp">
-      <Filter>소스 파일\3. 알고리즘\programmers</Filter>
-    </ClCompile>
     <ClCompile Include="5615.cpp">
       <Filter>소스 파일\3. 알고리즘\문자열</Filter>
     </ClCompile>
@@ -789,8 +780,20 @@
     <ClCompile Include="2407 - 조합.cpp">
       <Filter>소스 파일\3. 알고리즘\수학\Combination</Filter>
     </ClCompile>
+    <ClCompile Include="1948 - 임계경로.cpp">
+      <Filter>소스 파일\3. 알고리즘\그래프\다익스트라</Filter>
+    </ClCompile>
+    <ClCompile Include="Hash%281%29 - 완주하지 못한 선수.cpp">
+      <Filter>소스 파일\3. 알고리즘\programmers</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort%281%29 - K번째 수.cpp">
+      <Filter>소스 파일\3. 알고리즘\programmers</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort%282%29 - 가장 큰 수.cpp">
+      <Filter>소스 파일\3. 알고리즘\programmers</Filter>
+    </ClCompile>
     <ClCompile Include="9996 - 한국이 그리울 땐 서버에 접속하지.cpp">
-      <Filter>소스 파일\3. 알고리즘</Filter>
+      <Filter>소스 파일\3. 알고리즘\구현</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
