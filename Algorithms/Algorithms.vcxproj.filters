@@ -148,6 +148,9 @@
     <Filter Include="소스 파일\3. 알고리즘\수학\Combination">
       <UniqueIdentifier>{c99bccf9-439a-4777-af46-b0f1495e1dd6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\3. 알고리즘\비트마스킹">
+      <UniqueIdentifier>{fdb0f6f2-0bc2-4140-9ebd-bb1ed048de2e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="2609.cpp">
@@ -794,6 +797,9 @@
     </ClCompile>
     <ClCompile Include="9996 - 한국이 그리울 땐 서버에 접속하지.cpp">
       <Filter>소스 파일\3. 알고리즘\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="2098 - 외판원 순회.cpp">
+      <Filter>소스 파일\3. 알고리즘\비트마스킹</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
