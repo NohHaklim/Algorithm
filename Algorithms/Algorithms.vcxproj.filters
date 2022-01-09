@@ -801,6 +801,9 @@
     <ClCompile Include="2098 - 외판원 순회.cpp">
       <Filter>소스 파일\3. 알고리즘\비트마스킹</Filter>
     </ClCompile>
+    <ClCompile Include="1062 - 가르침.cpp">
+      <Filter>소스 파일\3. 알고리즘\완전 정복</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="2. 주의할 점.txt">
