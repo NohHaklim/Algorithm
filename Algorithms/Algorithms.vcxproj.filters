@@ -804,6 +804,15 @@
     <ClCompile Include="1062 - 가르침.cpp">
       <Filter>소스 파일\3. 알고리즘\완전 정복</Filter>
     </ClCompile>
+    <ClCompile Include="2658 - 직각이등변삼각형찾기.cpp">
+      <Filter>소스 파일\3. 알고리즘\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="4562 - No Brainer.cpp">
+      <Filter>소스 파일\3. 알고리즘\구현</Filter>
+    </ClCompile>
+    <ClCompile Include="4892 - 숫자 맞추기 게임.cpp">
+      <Filter>소스 파일\3. 알고리즘\구현</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="2. 주의할 점.txt">
