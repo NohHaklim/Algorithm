@@ -813,6 +813,9 @@
     <ClCompile Include="4892 - 숫자 맞추기 게임.cpp">
       <Filter>소스 파일\3. 알고리즘\구현</Filter>
     </ClCompile>
+    <ClCompile Include="1475 - 방 번호.cpp">
+      <Filter>소스 파일\3. 알고리즘\구현</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="2. 주의할 점.txt">
