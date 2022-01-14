@@ -828,6 +828,9 @@
     <ClCompile Include="5217 - 쌍의 합.cpp">
       <Filter>소스 파일\3. 알고리즘\구현</Filter>
     </ClCompile>
+    <ClCompile Include="6749 - Next in line.cpp">
+      <Filter>소스 파일\3. 알고리즘\구현</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="2. 주의할 점.txt">
