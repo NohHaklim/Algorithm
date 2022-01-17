@@ -837,6 +837,9 @@
     <ClCompile Include="23795 - 사장님 도박은 재미로 하셔야 합니다.cpp">
       <Filter>소스 파일\3. 알고리즘\구현</Filter>
     </ClCompile>
+    <ClCompile Include="23235 - The Fastest Sorting Algorithm In The World.cpp">
+      <Filter>소스 파일\3. 알고리즘\구현</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="2. 주의할 점.txt">

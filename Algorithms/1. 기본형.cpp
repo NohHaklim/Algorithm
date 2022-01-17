@@ -9,7 +9,6 @@
 		2. 다른 알고리즘 떠올려보기 => 분할/정복, 완전탐색, 이진탐색, DP, 탐욕...
 
 #include <iostream>
-#include <vector>
 using namespace std;
 
 int main()
